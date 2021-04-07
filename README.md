@@ -20,5 +20,8 @@
 - [ ] Artemis repo working - [all members]
 - [ ] DC GAN using wiki_subset - [Deniz]
 - [ ] CAN using wiki_subset or original - [Arian]
+- [ ] Make Public Repo for Artemis Data & Subset Data - [Arian]
+- [ ] Adapt notebook for subset - [Pim, Ruduan]
 - [ ] Text Conditioned GAN
 - [ ] NLP
+
