@@ -21,7 +21,7 @@
 - [ ] DC GAN using wiki_subset - [Deniz]
 - [ ] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
 - [ ] CAN using wiki_subset or original - []
-- [ ] Make Public Repo for Artemis Data & Subset Data - [Arian]
+- [ ] Make wiki art accessable to all from Uni server - [Arian]
 - [X] Adapt notebook for subset - [Deniz]
 - [ ] Adapt/Doublecheck notebook for subset - [Pim, Ruduan] 
 - [ ] Text Conditioned GAN
