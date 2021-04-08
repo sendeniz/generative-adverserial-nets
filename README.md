@@ -20,7 +20,7 @@
 - [ ] Artemis repo working - [all members]
 - [ ] DC GAN using wiki_subset - [Deniz]
 - [ ] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
-- [ ] CAN using wiki_subset or original - []
+- [ ] CAN generated image - [Arian]
 - [ ] Make wiki art accessable to all from Uni server - [Arian]
 - [X] Adapt notebook for subset - [Deniz]
 - [ ] Adapt/Doublecheck notebook for subset - [Pim, Ruduan] 
