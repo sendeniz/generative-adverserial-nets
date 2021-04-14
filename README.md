@@ -15,15 +15,16 @@
     Currently slight adjustment to the notebook folder was made to accomodate the wikiart_subset data for 1) selecting a random artwork and depicting its 
     emotional response and 2) select a random artwork based on a genre i.e. portrait, landscape etc.
     
- 
+    
 ### Tasks:
 - [ ] Artemis repo working - [all members]
 - [ ] DC GAN using wiki_subset - [Deniz]
-- [ ] CAN using wiki_subset or original - [Arian]
-- [ ] Make Public Repo for Artemis Data & Subset Data - [Arian]
+- [ ] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
+- [ ] CAN generated image - [Arian]
+- [ ] Make wiki art accessable to all from Uni server - [Arian]
 - [X] Adapt notebook for subset - [Deniz]
 - [ ] Adapt/Doublecheck notebook for subset - [Pim, Ruduan] 
-- [ ] Text Conditioned GAN
+- [ ] (Text) Conditioned GAN [Pim]
 - [ ] NLP
 
 
