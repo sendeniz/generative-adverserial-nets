@@ -17,7 +17,7 @@
     
     
 ### Tasks:
-- [ ] Artemis repo working - [all members]
+- [ ] Artemis repo working - [All]
 - [ ] DC GAN using wiki_subset - [Deniz]
 - [ ] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
 - [ ] CAN generated image - [Arian]
@@ -28,6 +28,7 @@
 - [ ] (Text) Conditioned GAN - [Pim, Deniz]
 - [ ] Alternatives to Text conditioning [Pim]
 - [ ] NLP research trends: What to use? - [Ruduan]
+- [ ] Collect Research Papers to Overleaf - [All]
 
 
 ## ArtEmis: Affective Language for Visual Art
