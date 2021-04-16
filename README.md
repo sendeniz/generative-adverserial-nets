@@ -23,10 +23,10 @@
 - [ ] CAN generated image - [Arian]
 - [ ] Make wiki art accessable to all from Uni server - [Arian]
 - [X] Adapt notebook for subset - [Deniz]
-- [ ] Adapt/Doublecheck notebook for subset - [Pim, Ruduan] 
-- [ ] Add Aestetic Metrics - []
+- [ ] Check and potentially adapt notebook for subset - [Pim, Ruduan] 
+- [ ] Add 1)) Inception Score Metrics and 2) NEvAr Asthetic Metric - [Elise]
 - [ ] (Text) Conditioned GAN - [Pim]
-- [ ] NLP - []
+- [ ] NLP - [Arian,Ruduan]
 
 
 ## ArtEmis: Affective Language for Visual Art
