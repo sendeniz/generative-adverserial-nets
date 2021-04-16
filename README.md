@@ -1,9 +1,12 @@
 # Affective Creative Adverserial Network
+
+### Overleaf link:
+   [https://www.overleaf.com/5181234955bcbqyncppyqn]
 ### Description:
 1. wikiart_subset:
     The wikiart_subset folder consists of the following art style: [Analytica_Cubism, Cubism, Expressionism, Fauvism, Synthetic_Cubism] and consists of 10231
     artworks for testing generative models.
-    This folder is not included in the repo, but can be downloaded from https://drive.google.com/drive/folders/1Zg-1Ax32rG3L3xqR_5bwmiHQzlH4CR6h?usp=sharing
+    This folder is not included in the repo, but can be downloaded from [https://drive.google.com/drive/folders/1Zg-1Ax32rG3L3xqR_5bwmiHQzlH4CR6h?usp=sharing]
     
 2. artemis:
     The artemis repo from https://github.com/optas/artemis is included. Please follow the installation guide (step 1-2) in below or from the original   
