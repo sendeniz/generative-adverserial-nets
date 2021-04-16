@@ -27,7 +27,7 @@
 - [ ] Add 1)) Inception Score Metrics and 2) NEvAr Asthetic Metric - [Elise]
 - [ ] (Text) Conditioned GAN - [Pim, Deniz]
 - [ ] Alternatives to Text conditioning [Pim]
-- [ ] NLP transformers, bird model - [Ruduan]
+- [ ] NLP research trends: What to use? - [Ruduan]
 
 
 ## ArtEmis: Affective Language for Visual Art
