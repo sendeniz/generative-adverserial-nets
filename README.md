@@ -18,7 +18,7 @@
     
 ### Tasks:
 - [ ] Artemis repo working - [All]
-- [ ] DC GAN using wiki_subset - [Deniz]
+- [X] DC GAN using wiki_subset - [Deniz]
 - [ ] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
 - [ ] CAN generated image - [Arian]
 - [ ] Make wiki art accessable to all from Uni server - [Arian]
