@@ -25,8 +25,9 @@
 - [X] Adapt notebook for subset - [Deniz]
 - [ ] Check and potentially adapt notebook for subset - [Pim, Ruduan] 
 - [ ] Add 1)) Inception Score Metrics and 2) NEvAr Asthetic Metric - [Elise]
-- [ ] (Text) Conditioned GAN - [Pim]
-- [ ] NLP - [Arian,Ruduan]
+- [ ] (Text) Conditioned GAN - [Pim, Deniz]
+- [ ] Alternatives to Text conditioning [Pim]
+- [ ] NLP transformers, bird model - [Ruduan]
 
 
 ## ArtEmis: Affective Language for Visual Art
