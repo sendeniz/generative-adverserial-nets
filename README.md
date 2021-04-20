@@ -24,7 +24,7 @@
 - [X] DC GAN using wiki_subset - [Deniz]
 - [ ] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
 - [ ] CAN generated image - [Arian]
-- [ ] Make wiki art accessable to all from Uni server - [Arian]
+- [X] Make wiki art accessable to all from Uni server - [Arian]
 - [X] Adapt notebook for subset - [Deniz]
 - [ ] Check and potentially adapt notebook for subset - [Pim, Ruduan] 
 - [ ] Add 1) Inception Score Metrics and 2) NEvAr Asthetic Metric - [Elise]
