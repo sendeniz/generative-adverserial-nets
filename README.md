@@ -27,9 +27,9 @@
 - [ ] Make wiki art accessable to all from Uni server - [Arian]
 - [X] Adapt notebook for subset - [Deniz]
 - [ ] Check and potentially adapt notebook for subset - [Pim, Ruduan] 
-- [ ] Add 1)) Inception Score Metrics and 2) NEvAr Asthetic Metric - [Elise]
-- [ ] (Text) Conditioned GAN - [Pim, Deniz]
-- [ ] Alternatives to Text conditioning [Pim]
+- [ ] Add 1) Inception Score Metrics and 2) NEvAr Asthetic Metric - [Elise]
+- [X] (Text) Conditioned GAN - [Pim, Elise]
+- [X] Research (Text) conditioning GAN - [Pim]
 - [ ] NLP research trends: What to use? - [Ruduan]
 - [ ] Collect Research Papers to Overleaf - [All]
 
