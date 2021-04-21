@@ -20,7 +20,7 @@
     
     
 ### Tasks:
-- [ ] Artemis repo working - [All]
+- [X] Artemis repo working - [All]
 - [X] DC GAN using wiki_subset - [Deniz]
 - [ ] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
 - [ ] CAN generated image - [Arian]
