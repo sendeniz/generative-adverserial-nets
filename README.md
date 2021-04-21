@@ -2,6 +2,25 @@
 
 ### Overleaf link:
    [https://www.overleaf.com/5181234955bcbqyncppyqn]
+   
+    
+### Tasks:
+- [X] Artemis repo working - [All]
+- [X] DC GAN using wiki_subset - [Deniz]
+- [X] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
+- [X] CAN generated image - [Arian]
+- [X] Make wiki art accessable to all from Uni server - [Arian]
+- [X] Adapt notebook for subset - [Deniz]
+- [ ] Check and potentially adapt notebook for subset - [Pim, Ruduan] 
+- [X] Add 1) Inception Score Metrics [Elise]
+- [ ] 2) NEvAr Asthetic Metric - []
+- [X] (Text) Conditioned GAN - [Pim, Elise]
+- [X] Research (Text) conditioning GAN - [Pim]
+- [X] NLP research trends: What to use for emotion? - [Ruduan]
+- [ ] NLP transformer model for emotion output - [Ruduan]
+- [ ] Collect Research Papers to Overleaf - [All]
+- [ ] High Resolution: Res Net - []   
+   
 ### Description:
 1. wikiart_subset:
     The wikiart_subset folder consists of the following art style: [Analytica_Cubism, Cubism, Expressionism, Fauvism, Synthetic_Cubism] and consists of 10231
@@ -18,22 +37,6 @@
     Currently slight adjustment to the notebook folder was made to accomodate the wikiart_subset data for 1) selecting a random artwork and depicting its 
     emotional response and 2) select a random artwork based on a genre i.e. portrait, landscape etc.
     
-    
-### Tasks:
-- [X] Artemis repo working - [All]
-- [X] DC GAN using wiki_subset - [Deniz]
-- [X] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
-- [X] CAN generated image - [Arian]
-- [X] Make wiki art accessable to all from Uni server - [Arian]
-- [X] Adapt notebook for subset - [Deniz]
-- [ ] Check and potentially adapt notebook for subset - [Pim, Ruduan] 
-- [X] Add 1) Inception Score Metrics [Elise]
-- [ ] 2) NEvAr Asthetic Metric - []
-- [X] (Text) Conditioned GAN - [Pim, Elise]
-- [X] Research (Text) conditioning GAN - [Pim]
-- [X] NLP research trends: What to use for emotion? - [Ruduan]
-- [ ] NLP transformer model for emotion output - [Ruduan
-- [ ] Collect Research Papers to Overleaf - [All]
 
 
 ## ArtEmis: Affective Language for Visual Art
