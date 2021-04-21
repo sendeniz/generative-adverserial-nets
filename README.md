@@ -30,7 +30,8 @@
 - [ ] Add 1) Inception Score Metrics and 2) NEvAr Asthetic Metric - [Elise]
 - [X] (Text) Conditioned GAN - [Pim, Elise]
 - [X] Research (Text) conditioning GAN - [Pim]
-- [ ] NLP research trends: What to use? - [Ruduan]
+- [X] NLP research trends: What to use for emotion? - [Ruduan]
+- [ ] NLP transformer model for emotion output - [Ruduan
 - [ ] Collect Research Papers to Overleaf - [All]
 
 
