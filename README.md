@@ -4,7 +4,18 @@
    [https://www.overleaf.com/5181234955bcbqyncppyqn]
    
     
-### Tasks:
+### Tasks Open:
+- [ ] See and implement other Metrics: FID - [Elise]
+- [ ] 2) NEvAr Asthetic Metric - [Deniz]
+- [ ] NLP transformer model for emotion output - [Ruduan]
+- [ ] Conditioned GAN - [Pim, Arian]
+- [ ] Collect Research Papers to Overleaf - [All]
+- [ ] High Resolution: Res Net - []   
+
+### Tasks Done:
+
+- [X] Research (Text) conditioning GAN - [Pim]
+- [X] Add Inception Score Metrics - [Elise]
 - [X] Artemis repo working - [All]
 - [X] DC GAN using wiki_subset - [Deniz]
 - [X] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
@@ -12,17 +23,7 @@
 - [X] Make wiki art accessable to all from Uni server - [Arian]
 - [X] Adapt notebook for subset - [Deniz]
 - [X] Adapt CAN notebook Strucutre - [Deniz]
-- [ ] Check and potentially adapt notebook for subset - [Pim, Ruduan] 
-- [X] Add 1) Inception Score Metrics - [Elise]
-- [ ] Investiagte Other Metrics (i.e. FID, NLP metrics that can be used) - [Eluse]
-- [ ] 2) NEvAr Asthetic Metric - []
-- [X] (Text) Conditioned GAN - [Pim, Arian]
-- [X] Research (Text) conditioning GAN - [Pim]
-- [X] NLP research trends: What to use for emotion? - [Ruduan]
-- [ ] NLP transformer model for emotion output - [Ruduan]
-- [ ] Collect Research Papers to Overleaf - [All]
-- [ ] High Resolution: Res Net - []   
-   
+
 ### Description:
 1. wikiart_subset:
     The wikiart_subset folder consists of the following art style: [Analytica_Cubism, Cubism, Expressionism, Fauvism, Synthetic_Cubism] and consists of 10231
