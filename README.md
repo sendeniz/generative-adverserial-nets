@@ -7,13 +7,13 @@
 ### Tasks Open:
 - [ ] See and implement other Metrics: FID - [Elise]
 - [ ] 2) NEvAr Asthetic Metric - [Deniz]
-- [ ] NLP transformer model for emotion output - [Ruduan]
 - [ ] Conditioned GAN - [Pim, Arian]
 - [ ] Collect Research Papers to Overleaf - [All]
 - [ ] High Resolution: Res Net - []   
 
 ### Tasks Done:
 
+- [X] NLP transformer model for emotion output - [Ruduan]
 - [X] Research (Text) conditioning GAN - [Pim]
 - [X] Add Inception Score Metrics - [Elise]
 - [X] Artemis repo working - [All]
