@@ -18,7 +18,7 @@
 - [X] Add Inception Score Metrics - [Elise]
 - [X] Artemis repo working - [All]
 - [X] DC GAN using wiki_subset - [Deniz]
-- [X] Research in trends: Pytorch or Tensorflow - [Arian, Deniz]
+- [X] Research in trends: Pytorch or Tensorflow - [Deniz]
 - [X] CAN generated image - [Arian]
 - [X] Make wiki art accessable to all from Uni server - [Arian]
 - [X] Adapt notebook for subset - [Deniz]
