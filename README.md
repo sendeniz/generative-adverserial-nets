@@ -9,7 +9,7 @@
 - [ ] 2) NEvAr Asthetic Metric - [Deniz]
 - [ ] Conditioned GAN - [Pim, Arian]
 - [ ] Collect Research Papers to Overleaf - [All]
-- [ ] High Resolution: Res Net - []   
+- [ ] High Resolution: Res Net - [Ruduan]   
 
 ### Tasks Done:
 
