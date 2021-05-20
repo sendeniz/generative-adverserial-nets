@@ -5,7 +5,6 @@
    
     
 ### Tasks Open:
-- [ ] See and implement other Metrics: FID - [Elise]
 - [ ] 2) NEvAr Asthetic Metric - [Deniz]
 - [ ] Conditioned GAN - [Pim, Arian]
 - [ ] Collect Research Papers to Overleaf - [All]
@@ -23,6 +22,7 @@
 - [X] Make wiki art accessable to all from Uni server - [Arian]
 - [X] Adapt notebook for subset - [Deniz]
 - [X] Adapt CAN notebook Strucutre - [Deniz]
+- - [X] FID - [Elise]
 
 ### Description:
 1. wikiart_subset:
