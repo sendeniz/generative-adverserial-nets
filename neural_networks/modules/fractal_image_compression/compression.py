@@ -182,6 +182,8 @@ def test_rgb(img):
     plt.subplot(122)
     plt.imshow(retrieved_img.astype(np.uint8), interpolation='none')
     plt.show()
+    
+    return retrieved_img
                     
 if __name__ == '__main__':
     test_greyscale()
