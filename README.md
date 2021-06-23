@@ -5,9 +5,6 @@
    
     
 ### Tasks Open:
-- [ ] 2) NEvAr Asthetic Metric - [Elise, Deniz]
-- [ ] Collect Research Papers to Overleaf - [All]
-- [ ] High Resolution: Res Net - [Ruduan]   
 
 ### Tasks Done:
 - [X] NLP transformer model for emotion output - [Ruduan]
@@ -23,6 +20,7 @@
 - [X] Adapt notebook for subset - [Deniz]
 - [X] Adapt CAN notebook Strucutre - [Deniz]
 - [X] FID - [Elise]
+- [X] 2) NEvAr Asthetic Metric - [Elise, Deniz]
 
 ### Description:
 1. wikiart_subset:
