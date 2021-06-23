@@ -17,8 +17,7 @@
 - [X] cGAN - [Arian, Deniz]
 - [X] CAN - [Arian, Deniz]
 - [X] Make wiki art accessable to all from Uni server - [Arian]
-- [X] Adapt notebook for subset - [Deniz]
-- [X] Adapt CAN notebook Strucutre - [Deniz]
+- [X] Add test data - [Deniz]
 - [X] FID - [Elise]
 - [X] 2) NEvAr Asthetic Metric - [Elise, Deniz]
 
