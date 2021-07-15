@@ -74,7 +74,7 @@ def compress(img, source_size, destination_size, step):
     for i in range(i_count):
         transformations.append([])
         for j in range(j_count):
-            print("{}/{} ; {}/{}".format(i, i_count, j, j_count))
+            #print("{}/{} ; {}/{}".format(i, i_count, j, j_count))
             transformations[i].append(None)
             min_d = float('inf')
             # Extract the destination block
@@ -96,7 +96,7 @@ def decompress(transformations, source_size, destination_size, step, nb_iter=8):
     iterations = [np.random.randint(0, 256, (height, width))]
     cur_img = np.zeros((height, width))
     for i_iter in range(nb_iter):
-        print(i_iter)
+        #print(i_iter)
         for i in range(len(transformations)):
             for j in range(len(transformations[i])):
                 # Apply transform
@@ -160,20 +160,20 @@ candidates = [[direction, angle] for direction in directions for angle in angles
 
 def test_greyscale(img):
 
-    img = reduce(img, 4)
-    plt.figure()
-    plt.imshow(img, cmap='gray', interpolation='none')
+    #img = reduce(img, 4)
+    #plt.figure()
+    #plt.imshow(img, cmap='gray', interpolation='none')
     transformations = compress(img, 8, 4, 8)
     iterations = decompress(transformations, 8, 4, 8)
-    plot_iterations(iterations, img)
-    plt.show()
+    #plot_iterations(iterations, img)
+    #plt.show()
     return transformations, iterations
     
 
 def test_rgb(img):
     img = reduce_rgb(img, 8)
-    transformations = compress_rgb(img, 8, 4, 8)
-    retrieved_img = decompress_rgb(transformations, 8, 4, 8)
+    transformations = compress_rgb(img, 64, 4, 8)
+    retrieved_img = decompress_rgb(transformations, 64, 4, 8)
 
     
     plt.figure()
@@ -182,7 +182,6 @@ def test_rgb(img):
     plt.subplot(122)
     plt.imshow(retrieved_img.astype(np.uint8), interpolation='none')
     plt.show()
-    
     return retrieved_img
                     
 if __name__ == '__main__':
