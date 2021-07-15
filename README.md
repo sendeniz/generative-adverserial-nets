@@ -5,23 +5,21 @@
    
     
 ### Tasks Open:
-- [ ] 2) NEvAr Asthetic Metric - [Deniz]
-- [ ] Collect Research Papers to Overleaf - [All]
-- [ ] High Resolution: Res Net - [Ruduan]   
 
 ### Tasks Done:
-- [X] Conditioned GAN - [Pim, Arian]
 - [X] NLP transformer model for emotion output - [Ruduan]
 - [X] Research (Text) conditioning GAN - [Pim]
+- [X] Data Proprocessing: Create Dominant Emotion  - [Pim]
 - [X] Add Inception Score Metrics - [Elise]
 - [X] Artemis repo working - [All]
 - [X] DC GAN using wiki_subset - [Deniz]
 - [X] Research in trends: Pytorch or Tensorflow - [Deniz]
-- [X] CAN generated image - [Arian]
+- [X] cGAN - [Arian, Deniz]
+- [X] CAN - [Arian, Deniz]
 - [X] Make wiki art accessable to all from Uni server - [Arian]
-- [X] Adapt notebook for subset - [Deniz]
-- [X] Adapt CAN notebook Strucutre - [Deniz]
+- [X] Add test data - [Deniz]
 - [X] FID - [Elise]
+- [X] 2) NEvAr Asthetic Metric - [Elise, Deniz]
 
 ### Description:
 1. wikiart_subset:
